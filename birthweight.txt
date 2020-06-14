@@ -1,4 +1,4 @@
-Year, Total, Non-Hispanic black, Hispanic,  Non-Hispanic white
+"Year" "Total" "Non-Hispanic-black" "Hispanic" "Non-Hispanic-white"
 2006 6.49 11.85 5.79 5.37
 2007 6.45 11.78 5.74 5.32
 2008 6.40 11.60 5.74 5.26
